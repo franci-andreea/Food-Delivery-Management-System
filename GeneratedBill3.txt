@@ -1,0 +1,6 @@
+Order with id = 3
+Placed at Tue May 18 03:07:52 EEST 2021
+Client ID = 1
+Ordered Products:
+	Green Beans with Red Onion and Mustard Seed Vinaigrette, Green Beans with Red Onion and Mustard Seed Vinaigrette, Green Beans with Red Onion and Mustard Seed Vinaigrette, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Red Onion Sauerkraut.Red Onion Sauerkraut.
+Total order bill = 412

@@ -1,0 +1,6 @@
+Order with id = 1
+Placed at Tue May 18 03:07:06 EEST 2021
+Client ID = 1
+Ordered Products:
+	Food Processor Pizza Dough, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Double-Crusted Turkey Sausage Pizza.Double-Crusted Turkey Sausage Pizza.Double-Crusted Turkey Sausage Pizza.
+Total order bill = 666

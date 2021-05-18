@@ -1,0 +1,6 @@
+Order with id = 2
+Placed at Tue May 18 03:07:28 EEST 2021
+Client ID = 1
+Ordered Products:
+	Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cornmeal Cake with Sweet Rosemary Syrup and Blackberries.Cornmeal Cake with Sweet Rosemary Syrup and Blackberries.Cornmeal Cake with Sweet Rosemary Syrup and Blackberries.
+Total order bill = 602

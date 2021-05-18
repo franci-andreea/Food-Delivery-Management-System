@@ -1,0 +1,21 @@
+Order ID = 3
+Client ID = 1
+Order date = Tue May 18 03:07:52 EEST 2021
+Products ordered:
+	Green Beans with Red Onion and Mustard Seed Vinaigrette(count = 3), Green Beans with Red Onion and Mustard Seed Vinaigrette(count = 3), Green Beans with Red Onion and Mustard Seed Vinaigrette(count = 3), Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions(count = 4), Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions(count = 4), Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions(count = 4), Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions(count = 4), Red Onion Sauerkraut(count = 2).Red Onion Sauerkraut(count = 2).
+
+
+Order ID = 2
+Client ID = 1
+Order date = Tue May 18 03:07:28 EEST 2021
+Products ordered:
+	Cinnamon-Nut Cake(count = 7), Cinnamon-Nut Cake(count = 7), Cinnamon-Nut Cake(count = 7), Cinnamon-Nut Cake(count = 7), Cinnamon-Nut Cake(count = 7), Cinnamon-Nut Cake(count = 7), Cinnamon-Nut Cake(count = 7), Cornmeal Cake with Sweet Rosemary Syrup and Blackberries(count = 3).Cornmeal Cake with Sweet Rosemary Syrup and Blackberries(count = 3).Cornmeal Cake with Sweet Rosemary Syrup and Blackberries(count = 3).
+
+
+Order ID = 1
+Client ID = 1
+Order date = Tue May 18 03:07:06 EEST 2021
+Products ordered:
+	Food Processor Pizza Dough(count = 1), Fruit and Cookie-Crust Pizza(count = 5), Fruit and Cookie-Crust Pizza(count = 5), Fruit and Cookie-Crust Pizza(count = 5), Fruit and Cookie-Crust Pizza(count = 5), Fruit and Cookie-Crust Pizza(count = 5), Three-Cheese Pizza with Onion and Sage(count = 5), Three-Cheese Pizza with Onion and Sage(count = 5), Three-Cheese Pizza with Onion and Sage(count = 5), Three-Cheese Pizza with Onion and Sage(count = 5), Three-Cheese Pizza with Onion and Sage(count = 5), Double-Crusted Turkey Sausage Pizza(count = 3).Double-Crusted Turkey Sausage Pizza(count = 3).Double-Crusted Turkey Sausage Pizza(count = 3).
+
+

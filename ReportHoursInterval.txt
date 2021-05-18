@@ -1,0 +1,21 @@
+Order ID = 3
+Client ID = 1
+Order date = Tue May 18 03:07:52 EEST 2021
+Products ordered:
+	Green Beans with Red Onion and Mustard Seed Vinaigrette, Green Beans with Red Onion and Mustard Seed Vinaigrette, Green Beans with Red Onion and Mustard Seed Vinaigrette, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Green Bean and Radicchio Salad with Roasted Beets and Balsamic Red Onions, Red Onion Sauerkraut.Red Onion Sauerkraut.
+
+
+Order ID = 2
+Client ID = 1
+Order date = Tue May 18 03:07:28 EEST 2021
+Products ordered:
+	Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cinnamon-Nut Cake, Cornmeal Cake with Sweet Rosemary Syrup and Blackberries.Cornmeal Cake with Sweet Rosemary Syrup and Blackberries.Cornmeal Cake with Sweet Rosemary Syrup and Blackberries.
+
+
+Order ID = 1
+Client ID = 1
+Order date = Tue May 18 03:07:06 EEST 2021
+Products ordered:
+	Food Processor Pizza Dough, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Fruit and Cookie-Crust Pizza, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Three-Cheese Pizza with Onion and Sage, Double-Crusted Turkey Sausage Pizza.Double-Crusted Turkey Sausage Pizza.Double-Crusted Turkey Sausage Pizza.
+
+
